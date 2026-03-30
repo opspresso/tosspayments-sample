@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tosspayments/tosspayments-sdk": "^2.3.4",
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
